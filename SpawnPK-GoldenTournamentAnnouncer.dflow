@@ -1,0 +1,7 @@
+@message.created
+if
+    channel == 1361480580486791270
+    message.embeds[0].title includes "Golden Tournament will be starting"
+then
+    send "<@273625163289853952> A Golden Tournament is starting" in 371768777202728963
+end
