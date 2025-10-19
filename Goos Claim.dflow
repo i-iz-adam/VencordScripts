@@ -1,6 +1,6 @@
 @message.created
 if
-    channel == 1354643862554939405
+    channel == 1088846968731750502
     author.id == 1402010378778706011
     message.content includes "<@&1429453525632684052>"
 then
