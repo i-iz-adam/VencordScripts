@@ -1,5 +1,6 @@
 @message.created
 if
+    channel == 1354643862554939405
     author.id == 1316258727858540595
     message.content includes "Hey"
 then

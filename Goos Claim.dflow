@@ -5,5 +5,4 @@ if
     message.content includes "@free goos ping"
 then
     reply "!date"
-    send "✅ Goo detected!" in #disc-games
 end
