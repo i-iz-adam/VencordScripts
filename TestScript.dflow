@@ -1,7 +1,7 @@
 @message.created
 if
     author.id == 1316258727858540595
-    message.content includes "@free goos ping"
+    message.content includes "Hey"
 then
     reply "hello there!"
 end
