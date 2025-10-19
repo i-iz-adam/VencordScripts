@@ -1,0 +1,6 @@
+@user.typing
+if
+    userId == 297981712665804800
+then
+    reply "Ryan caught typing"
+end
