@@ -4,5 +4,5 @@ if
     author.id == 1402010378778706011
     message.content includes "<@&1429453525632684052>"
 then
-    reply "!date"
+    reply "?date"
 end
