@@ -1,7 +1,7 @@
 @message.created
 if
     channel == 1361480580486791270
-    message.embeds[0].description includes "received"
+    message.embeds[0].title includes "received"
 then
     send "A embed has been sent" in 1354643862554939405
 end
