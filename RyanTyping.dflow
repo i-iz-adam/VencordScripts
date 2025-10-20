@@ -1,4 +1,5 @@
 @user.typing
+cooldown 5m
 if
     userId == 297981712665804800
 then
