@@ -1,4 +1,5 @@
 @message.created
+cooldown 30s
 if
     channel == 1361480580486791270
     message.embeds[0].title includes "Golden Tournament will be starting"
