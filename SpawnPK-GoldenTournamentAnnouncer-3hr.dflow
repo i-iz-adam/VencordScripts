@@ -1,0 +1,8 @@
+@message.created
+cooldown 30s
+if
+    channel == 1361480580486791270
+    message.embeds[0].title includes "Golden Tournament will be starting in 3 hrs!"
+then
+    send "<@&1429920238555762931> A Golden Tournament is starting in 3 hourrs!" in 1429918594677866618
+end

@@ -1,8 +1,0 @@
-@message.created
-cooldown 30s
-if
-    channel == 1361480580486791270
-    message.embeds[0].title includes "Golden Tournament will be starting"
-then
-    sendpm "<@273625163289853952> A Golden Tournament is starting" to 273625163289853952
-end
