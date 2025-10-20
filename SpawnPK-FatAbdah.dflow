@@ -1,0 +1,7 @@
+@message.created
+if
+    channel == 1361480580486791270
+    message.embeds[0].title includes " Fat Abdah"
+then
+    send message.embeds[0].title + " - <@191763620646879242>" in 1397517225967226940
+end

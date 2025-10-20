@@ -1,5 +1,4 @@
 @message.created
-cooldown 30s
 if
     channel == 1361480580486791270
     message.embeds[0].title includes " A hallowdream breach will be opening up in 5 mins!"
