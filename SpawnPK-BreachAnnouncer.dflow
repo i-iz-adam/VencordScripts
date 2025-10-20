@@ -1,0 +1,8 @@
+@message.created
+cooldown 30s
+if
+    channel == 1361480580486791270
+    message.embeds[0].title includes " A hallowdream breach will be opening up in 5 mins!"
+then
+    send "<@160857861138808832> A halloween breach will be opening in 5 minutes." in 1397517225967226940
+end
