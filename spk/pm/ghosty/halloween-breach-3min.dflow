@@ -1,0 +1,8 @@
+@message.created
+cooldown 30s
+if
+    channel == 1361480580486791270
+    message.embeds[0].title includes "hallowdream breach will be opening up in 3 mins"
+then
+    sendpm "<@704441069584121867> A Hallowdream Breach will be starting in 3 minutes" to 704441069584121867
+end
