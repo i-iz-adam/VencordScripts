@@ -1,0 +1,8 @@
+@message.created
+cooldown 30s
+if
+    channel == 1361480580486791270
+    message.embeds[0].title includes ":mega:  A {eventType} @or3@Golden Tournament will be starting in {timeForTourny}!"
+then
+    sendpm "<@273625163289853952> A **{eventType} Golden Tournament** is starting in **{timeForTourny}**!" to 273625163289853952
+end
