@@ -1,0 +1,8 @@
+@message.created
+cooldown 15s
+if
+    channel == 1
+    message.embeds[0].title includes ":mega:  The wilderness hotspot is now: {hotspot}!"
+then
+        send "The hotspot is now **{hotspot}**!" in 1383392406757703833
+end
