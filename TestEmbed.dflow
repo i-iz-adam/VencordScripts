@@ -1,9 +1,6 @@
-@message.created
-cooldown 30s
-if
-    channel == 1361480580486791270
-    message.embeds[0].title includes "received"
-then
-    send "A embed has been sent" in 1354643862554939405
-    sendpm message.embeds[0].title + " --" to 409081197868613636
+@message.created cooldown 30s
+    if channel == 1361480580486791270
+        message.embeds[0].title includes "hallowdream breach will be opening up in {timeForEvent}"
+    then
+        sendpm "<@409081197868613636> A Hallowdream Breach will be starting in {timeForEvent}" to 409081197868613636
 end
