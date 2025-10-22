@@ -2,7 +2,7 @@
 cooldown 30s
 if
     channel == 1361480580486791270
-    message.embeds[0].title includes "hallowdream breach will be opening up in 3 mins"
+    message.embeds[0].title includes ":mega:  A hallowdream breach will be opening up in {timeToEvent}!"
 then
-    sendpm "<@704441069584121867> A Hallowdream Breach will be starting in 3 minutes" to 704441069584121867
+    sendpm "<@704441069584121867> A Hallowdream Breach will be starting in **{timeToEvent}**" to 704441069584121867
 end
