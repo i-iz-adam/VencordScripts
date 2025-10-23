@@ -4,5 +4,5 @@ if
     channel == 1361480580486791270
     message.embeds[0].title includes ":mega: Hallowdorvis (event boss) will be rising in {timeToEvent} minute(s)!"
 then
-    sendpm "<@160857861138808832> The **Hallowdorvis(SAFE BOSS)** will be spawning in **{timeToEvent}**" to 701503037151117355
+    sendpm "<@160857861138808832> The **Hallowdorvis(SAFE BOSS)** will be spawning in **{timeToEvent} minutes**" to 701503037151117355
 end
