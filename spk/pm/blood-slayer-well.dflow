@@ -1,0 +1,8 @@
+@message.created
+cooldown 30s
+if
+    channel == 1361480580486791270
+    message.embeds[0].title includes "World bonus: 2X Slayer"
+then
+    sendpm "<@441815119920627723> X2 blood slayer well is active!" to 441815119920627723
+end
