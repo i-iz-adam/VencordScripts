@@ -1,0 +1,8 @@
+@message.created
+cooldown 30s
+if
+    channel == 1361480580486791270
+    message.embeds[0].title includes ":mega: Malevolent barrelchest (superior wildy boss) is rising in {timeToEvent}!"
+then
+    sendpm "<@1427087457588871251> A **Malevolent Barrelchest** will be spawning in **{timeToEvent}**" to 1427087457588871251
+end

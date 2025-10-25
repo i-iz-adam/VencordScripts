@@ -9,4 +9,5 @@ then
     sendpm "<@701503037151117355> A Hallowdream Breach will be starting in **{timeToEvent}**" to 701503037151117355
     sendpm "<@231932564858863626> A Hallowdream Breach will be starting in **{timeToEvent}**" to 231932564858863626
     sendpm "<@265595893648982017> A Hallowdream Breach will be starting in **{timeToEvent}**" to 265595893648982017
+    sendpm "<@1427087457588871251> A Hallowdream Breach will be starting in **{timeToEvent}**" to 1427087457588871251
 end
