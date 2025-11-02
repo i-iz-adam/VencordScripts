@@ -1,21 +1,11 @@
 {
   "scripts": [
-    "https://raw.githubusercontent.com/i-iz-adam/VencordScripts/refs/heads/main/TestEmbed.dflow",
     "https://raw.githubusercontent.com/i-iz-adam/VencordScripts/refs/heads/main/Goos%20Claim.dflow",
-
     
     "https://raw.githubusercontent.com/i-iz-adam/VencordScripts/refs/heads/main/spk/mw/hotspot_change.dflow",
 
-    "https://raw.githubusercontent.com/i-iz-adam/VencordScripts/refs/heads/main/spk/pm/halloween-breach.dflow",
-    "https://raw.githubusercontent.com/i-iz-adam/VencordScripts/refs/heads/main/spk/pm/hallowdorvis-spawn.dflow",
-    "https://raw.githubusercontent.com/i-iz-adam/VencordScripts/refs/heads/main/spk/pm/ghoulish-spectre-spawn.dflow",
-
-    
-    "https://raw.githubusercontent.com/i-iz-adam/VencordScripts/refs/heads/main/spk/pm/malev-barrelchest-spawn.dflow",
-
     "https://raw.githubusercontent.com/i-iz-adam/VencordScripts/refs/heads/main/spk/pm/blood-slayer-well.dflow",
 
-    
     "https://raw.githubusercontent.com/i-iz-adam/VencordScripts/refs/heads/main/spk/pm/aqeelxo/SpawnPK-GoldenTournamentAnnouncer.dflow"
   ]
 }
