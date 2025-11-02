@@ -5,4 +5,5 @@ if
     message.embeds[0].title includes ":mega: World bonus: 2X Slayer"
 then
     sendpm "<@441815119920627723> X2 blood slayer well is active!" to 441815119920627723
+    send "X2 blood slayer well is active!" in 1434512351377227796
 end

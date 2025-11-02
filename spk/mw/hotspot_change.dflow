@@ -4,5 +4,5 @@ if
     channel == 1361480580486791270
     message.embeds[0].title includes ":mega:  The wilderness hotspot is now: {hotspot}!"
 then
-        send "The hotspot is now **{hotspot}**!" in 1397517225967226940
+        send "The hotspot is now **{hotspot}**!" in 1434512351377227796
 end
